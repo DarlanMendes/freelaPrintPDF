@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@expo/webpack-config": "^0.17.2",
+    "axios": "^1.2.5",
     "expo": "~47.0.12",
     "expo-print": "^12.0.0",
     "expo-sharing": "^11.0.1",
